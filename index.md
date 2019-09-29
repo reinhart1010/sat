@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## CLAIM AS SAT
+Getting your SAT Points has never been easier. And colorful.
 
-You can use the [editor on GitHub](https://github.com/reinhart1010/sat/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
++ [About SAT](http://student.binus.ac.id/sat)
++ [Add to Telegram](https://t.me/addstickers/ClaimAsSAT)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Emoji Shortcuts
+We have introduced emoji shortcuts to claim faster.
 
-### Markdown
++ Insert one of: ✔️, ✅, ☑️, 👍, 👏, 🙌, 🤞, ✌️, 👌, 🙋‍♀️, 🙋‍♂️, 🥇, 🥈, 🥉, 🏆, 🏅, 🎖, 🎗, 💯, or 🆙 to add the classic "CLAIM AS SAT" checkbox
++ If you'd like to add the colored checkbox instead, insert any colored heart, circle, or square emojis (❤️, 💖, 🧡, 💛, 💚, 💙, 💜, 🖤)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Adding to WhatsApp
+By default
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/reinhart1010/sat/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### License and Disclaimer
+See [LICENSE file](https://github.com/reinhart1010/sat/blob/master/LICENSE) for details
